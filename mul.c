@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("1 * 2 is %d\n", 1*2);
+    printf("4 * 2 is %d\n", 4*2);
     return 0;
 }
